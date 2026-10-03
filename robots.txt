@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://g11-sharma.netlify.app/sitemap.xml

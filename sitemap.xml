@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://g11-sharma.netlify.app/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://g11-sharma.netlify.app/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://g11-sharma.netlify.app/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://g11-sharma.netlify.app/"/>
+  </url>
+  <url>
+    <loc>https://g11-sharma.netlify.app/projects/lumen-plan/</loc>
+    <lastmod>2026-09-25</lastmod>
+  </url>
+  <url>
+    <loc>https://g11-sharma.netlify.app/projects/lumen-consol/</loc>
+    <lastmod>2026-09-25</lastmod>
+  </url>
+  <url>
+    <loc>https://g11-sharma.netlify.app/projects/lumen-rollout/</loc>
+    <lastmod>2026-09-25</lastmod>
+  </url>
+  <url>
+    <loc>https://g11-sharma.netlify.app/projects/paris-market-ai/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+</urlset>
